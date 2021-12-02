@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+title: "Convergence Theory"
+excerpt: "[Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_4/Grupo4_Lab4_Python.ipynb): Using double lasso for convergence theory."
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+---
+This semester some code was replicated and the theory behind it was learned. 
+<br>
+[Scrip in Python](https://github.com/KatiuskaOlivera/KatiuskaOlivera.github.io/blob/master/files/Mapas%20de%20calor%20.ipynb)
+<br>
+[Scrip in R](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_4/Grupo4_lab4_R_1.ipynb)
+<br/><img src='/images/regression.png'>"

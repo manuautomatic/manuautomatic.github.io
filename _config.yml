@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aliro Cabrera"
-  avatar           : "profile.png"
+  avatar           : "Persoanl pic.png"
   bio              : " economics student interested in data science and digitization of economics "
   location         : "Lima Peru"
   employer         :
@@ -182,7 +182,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   cv:
     output: true

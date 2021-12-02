@@ -12,7 +12,7 @@ I am a student of the tenth cycle of the PUCP of economics interested in data sc
 
 ## Causal Inference and Machine Learning Book
 
-I am currently working on a [ Causal Inference and Machine Learning Bookdown]), where we can see tutorials using R and Python. The main topics this book covers are: 
+The Machine Learning course was taken where we saw the topics:
 
 * Prediction/Inference with High Dimensional Linear Models
 * Prediction in Modern Nonlinear Regressions (Random Forest and Deep Neural Networks)

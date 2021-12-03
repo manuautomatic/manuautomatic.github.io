@@ -85,10 +85,10 @@ author:
   bio              : " Economics student interested in data science and digitization of economics "
   location         : "Lima Peru"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "aliro.cf@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

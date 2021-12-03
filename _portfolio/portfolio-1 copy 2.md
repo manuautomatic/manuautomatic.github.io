@@ -11,6 +11,4 @@ This semester some code was replicated and the theory behind it was learned. <br
 
  Base in the paper of [Jannis Kueck](https://www.kaggle.com/janniskueck/ols-and-lasso-for-gender-wage-gap-inference?scriptVersionId=68863074). 
 
-<br>
-<br/><img src='/images/wagegap.png'>
 

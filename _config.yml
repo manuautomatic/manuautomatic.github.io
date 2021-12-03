@@ -181,7 +181,7 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
-  portfolio:
+  Trabajos Grupales:
     output: true
     permalink: /:collection/:path/
   cv:

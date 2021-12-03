@@ -1,6 +1,5 @@
 ---
-title: "OLS and lasso for gender wage gap inference"
-excerpt: "[Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_1/Grupo%204_lab1%20(Python)%20(2).ipynb): We replecate a paper in wage and gender gap."
+ "OLS and lasso for gender wage gap inference"
 ---
 
 This semester some code was replicated and the theory behind it was learned. <br>

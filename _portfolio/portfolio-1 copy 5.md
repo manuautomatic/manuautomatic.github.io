@@ -5,3 +5,4 @@ excerpt: "[PDF](https://github.com/manuautomatic/Finance/blob/main/Informe%20Fin
 ---
 
 This semester we evaluate Inretail. We recommend invest in this company because it have synergies and dominance, good expansion in market with potential. The price to buy is 46.9 dollars and with upside 33%. 
+

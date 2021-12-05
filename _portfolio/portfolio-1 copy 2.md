@@ -1,5 +1,5 @@
 ---
- title: ""OLS and lasso for gender wage gap inference""
+ title: "OLS and lasso for gender wage gap inference"
 excerpt: ""
 
 ---
